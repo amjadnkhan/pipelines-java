@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/akhan0906/devopsguruca/_apis/build/status/amjadnkhan.pipelines-java?branchName=master)](https://dev.azure.com/akhan0906/devopsguruca/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
